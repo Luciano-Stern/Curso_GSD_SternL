@@ -10,8 +10,11 @@
 
 -   Free software: MIT License
 -   Documentation: https://Luciano-Stern.github.io/curso_gsd_sternl
-    
+
 
 ## Features
 
 -   TODO
+- Herrores
+- Helo wodr
+-
